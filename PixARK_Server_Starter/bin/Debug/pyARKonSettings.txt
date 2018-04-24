@@ -1,0 +1,10 @@
+﻿settings.cfg
+[pyARKon]
+host = 100.4.64.70
+port = 27017
+pass = infacapps
+timeout = 15
+sleep = 3
+debug = False
+ogs = false
+logs = False

@@ -1,0 +1,11 @@
+c:\users\ryan\documents\visual studio 2015\Projects\PixARK_Server_Starter\PixARK_Server_Starter\bin\Debug\PixARK_Server_Starter.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\PixARK_Server_Starter\PixARK_Server_Starter\bin\Debug\PixARK_Server_Starter.exe
+c:\users\ryan\documents\visual studio 2015\Projects\PixARK_Server_Starter\PixARK_Server_Starter\bin\Debug\PixARK_Server_Starter.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\PixARK_Server_Starter\PixARK_Server_Starter\obj\Debug\PixARK_Server_Starter.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2015\Projects\PixARK_Server_Starter\PixARK_Server_Starter\obj\Debug\PixARK_Server_Starter.Properties.Resources.resources
+c:\users\ryan\documents\visual studio 2015\Projects\PixARK_Server_Starter\PixARK_Server_Starter\obj\Debug\PixARK_Server_Starter.csproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2015\Projects\PixARK_Server_Starter\PixARK_Server_Starter\obj\Debug\PixARK_Server_Starter.exe
+c:\users\ryan\documents\visual studio 2015\Projects\PixARK_Server_Starter\PixARK_Server_Starter\obj\Debug\PixARK_Server_Starter.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\PixARK_Server_Starter\PixARK_Server_Starter\obj\Debug\PixARK_Server_Starter.serverStarter.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\PixARK_Server_Starter\PixARK_Server_Starter\bin\Debug\freshGUS.txt
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\PixARK_Server_Starter\PixARK_Server_Starter\bin\Debug\pyARKonSettings.txt

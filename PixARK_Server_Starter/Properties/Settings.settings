@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PixARK_Server_Starter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServerInstallPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GUS" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="gamePort_S" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">27015</Value>
+    </Setting>
+    <Setting Name="queryPort_S" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">27016</Value>
+    </Setting>
+    <Setting Name="rconPort_S" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">27017</Value>
+    </Setting>
+    <Setting Name="cubePort_S" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">27018</Value>
+    </Setting>
+    <Setting Name="isServerPasswordProtected" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="pyArkRconInstallPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="adminPassword_S" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Changeme</Value>
+    </Setting>
+    <Setting Name="serverPassword_S" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Changeme</Value>
+    </Setting>
+    <Setting Name="serverName_S" Type="System.String" Scope="User">
+      <Value Profile="(Default)">My PixARK Server</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
